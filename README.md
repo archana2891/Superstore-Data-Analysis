@@ -1,7 +1,9 @@
 # Superstore-Data-Analysis
 
-Overall Sales Insights
+Overall Sales Insights:-
+
 Sales by Segment:
+
 
 Consumer segment dominates with the highest sales (18M+), followed by:
 
